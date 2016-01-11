@@ -1,5 +1,4 @@
 #pragma once
-
 #include "Command.h"
 #include "JumpCommand.h"
 #include "FireCommand.h"
