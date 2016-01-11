@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPP", "GPP\GPP.vcxproj", "{B9398D60-6680-4D8F-8F52-BF2D1C36E82A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command", "Command\Command.vcxproj", "{1B7A3A8D-150F-44B8-AFE8-7453DEC28259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9398D60-6680-4D8F-8F52-BF2D1C36E82A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9398D60-6680-4D8F-8F52-BF2D1C36E82A}.Debug|Win32.Build.0 = Debug|Win32
+		{B9398D60-6680-4D8F-8F52-BF2D1C36E82A}.Release|Win32.ActiveCfg = Release|Win32
+		{B9398D60-6680-4D8F-8F52-BF2D1C36E82A}.Release|Win32.Build.0 = Release|Win32
+		{1B7A3A8D-150F-44B8-AFE8-7453DEC28259}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B7A3A8D-150F-44B8-AFE8-7453DEC28259}.Debug|Win32.Build.0 = Debug|Win32
+		{1B7A3A8D-150F-44B8-AFE8-7453DEC28259}.Release|Win32.ActiveCfg = Release|Win32
+		{1B7A3A8D-150F-44B8-AFE8-7453DEC28259}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

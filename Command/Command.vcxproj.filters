@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Command.h" />
+    <ClInclude Include="JumpCommand.h" />
+    <ClInclude Include="InputHandler.h" />
+    <ClInclude Include="FireCommand.h" />
+    <ClInclude Include="GameActor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="JumpCommand.cpp" />
+    <ClCompile Include="InputHandler.cpp" />
+    <ClCompile Include="FireCommand.cpp" />
+    <ClCompile Include="GameActor.cpp" />
+  </ItemGroup>
+</Project>
